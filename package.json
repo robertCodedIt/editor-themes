@@ -1,0 +1,21 @@
+{
+  "name": "blakg07d",
+  "displayName": "BLAKG07D",
+  "description": "A theme inspired and built by the gamer BLAKG07D",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BLAKG07D",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BLAKG07D-color-theme.json"
+      }
+    ]
+  }
+}
